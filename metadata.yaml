@@ -1,0 +1,29 @@
+_repo: Donovan-Pasha-and-Some-People-of-Egypt-Volume-1_6256
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Horatio Gilbert
+    - Parker, Gilbert, Sir, bart.
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Egypt -- Fiction'
+tableOfContents: While the lamp holds out to burn -- The price of the grindstone and
+  the drum -- The desertion of Mohammed Selim -- On the reef of Norman's woe.
+title: Donovan Pasha, and Some People of Egypt — Volume 1
+url: http://www.gutenberg.org/ebooks/6256
